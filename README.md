@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hyojeong's Github&fontSize=50" />
-
 <div align=center><h1>:four_leaf_clover: Hyojeong's Github</h1><br>
 
 <div align=center><h1>:rainbow: Social </h1>
@@ -15,5 +13,3 @@
 
 <br>
 ![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&theme=buefy&show_icons=true)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
