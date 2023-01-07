@@ -7,4 +7,4 @@
 :rocket: 
 
 
-![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyojeong&theme=buefy&show_icons=true)
+![hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojeong&theme=buefy&show_icons=true)
