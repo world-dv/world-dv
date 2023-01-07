@@ -1,7 +1,8 @@
-<div align=center><h1>:four_leaf_clover:</h1><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hyojeong's Github&fontSize=50" />
 
+<div align=center><h1>:four_leaf_clover: Hyojeong's Github</h1><br>
 
-<div align=center><h1>:rainbow: Social </h1><br>
+<div align=center><h1>:rainbow: Social </h1>
 <a href="https://kick-like-cat.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 <div align=center><h1>:rocket: STACKS</h1></div>
@@ -12,4 +13,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
+<br>
 ![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&theme=buefy&show_icons=true)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
