@@ -11,4 +11,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&theme=buefy&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact)](https://github.com/world-dv/github-readme-stats)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&theme=buefy&show_icons=true)](https://github.com/world-dv/github-readme-stats)
