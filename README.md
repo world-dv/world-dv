@@ -1,8 +1,8 @@
 # :four_leaf_clover: Hyojeong's Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact)](https://github.com/world-dv/github-readme-stats)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&theme=buefy&show_icons=true)](https://github.com/world-dv/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact&theme=tokyonight)
 
 # :rocket: STACKS
 ### Languages
