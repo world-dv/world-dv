@@ -1,7 +1,6 @@
 # :four_leaf_clover: Hyojeong's Github
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)](https://github.com/world-dv/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact&theme=tokyonight)
 
 # :rocket: STACKS
