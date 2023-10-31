@@ -1,10 +1,12 @@
 # :four_leaf_clover: Hyojeong's Github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)](https://github.com/world-dv/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact&theme=tokyonight)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhk4107)](https://solved.ac/lhk4107)
 
-# :rocket: STACKS
+## :rocket: STACKS
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -19,8 +21,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
-# :rainbow: Social
+## :rainbow: Social
 <a href="https://velog.io/@yumya47" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:goodforx0147@naver.com)](mailto:yumya47@gmail.com)
+
