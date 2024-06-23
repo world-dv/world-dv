@@ -14,7 +14,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 
 ![MySql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Python]("https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white")
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
