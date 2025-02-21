@@ -1,10 +1,17 @@
-# :four_leaf_clover: Hyojeong's Github
+# :four_leaf_clover: HyoJeong Lee
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)](https://github.com/world-dv/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact&theme=tokyonight)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=world-dv&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/world-dv?pet-id=680662613722404529"
+    width="600"
+    height="120"
+  />
+</a>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhk4107)](https://solved.ac/lhk4107)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)](https://github.com/world-dv/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact&theme=tokyonight)
 
 ## :rocket: STACKS
 ### Languages
@@ -28,4 +35,3 @@
 
 ## :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:goodforx0147@naver.com)](mailto:yumya47@gmail.com)
-
