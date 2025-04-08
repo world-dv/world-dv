@@ -1,4 +1,32 @@
-# :four_leaf_clover: HyoJeong Lee
+
+![Face with Monocle](https://github.com/user-attachments/assets/31d0c699-f1cf-442a-a1b8-e4b72abc4557)
+
+> **"Zu allem Großen ist der erste Schritt der Mut."**  
+> _모든 위대한 일의 첫걸음은 **용기**이다._  
+> – Johann Wolfgang von Goethe
+
+<br>
+
+안녕하세요! 😄  
+**용기**를 가지고 새로운 도전을 즐기며,  
+꾸준한 성장을 실천하고자 하는 🌱 백엔드 개발자 🌱입니다.
+
+### 🙌🏻 About Me
+
+- **조금씩, 꾸준히** 나아가면 어떤 일이든 해낼 수 있다고 믿습니다. [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=25&theme=ray&rotate=0)](https://moon-svg.minung.dev)
+- 주어진 일에는 **책임감**을 가지고, **정해진 시간 내에 완수**하는 것을 중요하게 생각합니다.
+- 단 한 줄의 코드라도 **다른 사람이 읽기 쉽고, 이해하기 쉬운 코드**를 작성하고자 노력하고 있습니다.
+
+### 📚 Education
+
+- 🧑🏻‍🎓 **영남대학교** (2020.03 ~ 2024.08)  
+
+### 🧪 Experience
+
+- 💭 **CNSL 학부 연구생** (2021.06 ~ 2023.06)
+- 🤖 **SKALA** (2025.02 ~ ing)
+
+<br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=world-dv&utm_content=line">
   <img
@@ -7,11 +35,6 @@
     height="120"
   />
 </a>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhk4107)](https://solved.ac/lhk4107)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)](https://github.com/world-dv/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact&theme=tokyonight)
 
 ## :rocket: STACKS
 ### Languages
@@ -27,11 +50,18 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 
 ### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-## :rainbow: Social
+## :rainbow: Contacts
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:goodforx0147@naver.com)](mailto:yumya47@gmail.com)
 <a href="https://velog.io/@yumya47" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
-## :mailbox_with_mail: Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:goodforx0147@naver.com)](mailto:yumya47@gmail.com)
+<br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhk4107)](https://solved.ac/lhk4107)
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=world-dv&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=world-dv&layout=compact&theme=tokyonight&langs_count=8)
+
