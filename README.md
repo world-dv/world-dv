@@ -19,7 +19,7 @@
 
 ### 📚 Education
 
-- 🧑🏻‍🎓 **영남대학교** 컴퓨터학부 정보통신공학전공(2020.03 ~ 2024.08)
+- 🧑🏻‍🎓 **영남대학교** 컴퓨터학부 정보통신공학전공 (2020.03 ~ 2024.08)
 
 ### 🧪 Experience
 
@@ -28,17 +28,17 @@
 
 ### 🛠️ Certification
 
-- **정보처리기사**(2023)
-- **SQLD**(2023)
+- **정보처리기사** (2023)
+- **SQLD** (2023)
 
 <br>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=world-dv&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/world-dv?pet-id=680662613722404528"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=world-dv&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/world-dv"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## :rocket: STACKS
